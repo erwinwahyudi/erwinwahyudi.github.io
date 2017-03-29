@@ -1,0 +1,53 @@
+title: My Posts
+description: My Personal Stack Problems
+author: Erwin Wahyudi
+github: https://github.com/erwinwahyudi
+about: I am web developer and father of a son.
+disqus_shortname: erwinwhy-github-io
+google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/wahyudi.erwin"
+    # - icon: fa-skype
+    #   link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/eerwinwahyudi"
+    # - icon: fa-linkedin
+    #   link: "#"
+    - icon: fa-github
+      link: "https://github.com/erwinwahyudi"
+
+share:
+  twitter_username: eerwinwahyudi
+  fb_appid: 1839404691
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: Categories
+      url: /category/jekyll
+    - text: Projects
+      url: /projects/
+    - text: Github
+      url: https://github.com/erwinwahyudi
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://erwinwhy.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
