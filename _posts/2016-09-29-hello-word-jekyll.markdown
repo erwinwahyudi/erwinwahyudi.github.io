@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello Word Jekyll"
 date:   2016-09-29 12:55:00 +0700
+comments: false
 categories: [jekyll]
 ---
 

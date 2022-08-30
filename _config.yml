@@ -2,7 +2,7 @@ title: My Posts
 description: My Personal Stack Problems
 author: Erwin Wahyudi
 github: https://github.com/erwinwahyudi
-about: I am web developer and father of a son.
+about: I'am Software Developer. Founder <a target="_BLANK" href="https://codewees.com">Codewees</a>.
 disqus_shortname: erwinwhy-github-io
 google_analytics: UA-XXXXXXXX-Y
 
@@ -20,7 +20,7 @@ social:
     # - icon: fa-skype
     #   link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/eerwinwahyudi"
+      link: "https://twitter.com/erwinwhyd"
     # - icon: fa-linkedin
     #   link: "#"
     - icon: fa-github
