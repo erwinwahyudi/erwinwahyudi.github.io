@@ -15,13 +15,11 @@ collections:
     permalink: /project/:path/
 
 social:
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/erwinwahyudi"
     - icon: fa-facebook
       link: "https://www.facebook.com/wahyudi.erwin"
     # - icon: fa-skype
-    #   link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/erwinwhyd"
-    # - icon: fa-linkedin
     #   link: "#"
     - icon: fa-github
       link: "https://github.com/erwinwahyudi"
@@ -33,16 +31,16 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: Categories
-      url: /category/jekyll
-    - text: Projects
-      url: /projects/
+    # - text: Categories
+    #   url: /category/jekyll
+    # - text: Projects
+    #   url: /projects/
     - text: Github
       url: https://github.com/erwinwahyudi
     - text: XML Feed
       url: /feed.xml
 
-url: "https://erwinwhy.github.io"
+url: "https://erwinwahyudi.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
