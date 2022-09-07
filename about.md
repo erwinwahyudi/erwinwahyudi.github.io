@@ -11,9 +11,9 @@ Saya bekerja dengan Laravel dan Flutter.
 #### Tentang Website Ini
 Bismillah...
 
-Website ini saya buat sebagai dokumentasi pribadi. Saya menulis hal-hal yang berkaitan dengan `Web Programming`, `Mobile Programming`, `Konfigurasi Server`, `Github Page`, `All About Jekyll`, `Mac OS` dan hal-hal seputar teknologi yang saya gunakan.
+Website ini saya buat sebagai dokumentasi pribadi. Saya menulis hal-hal yang berkaitan dengan `Web Programming`, `Mobile Programming`, `Konfigurasi Server`, `Github Page`, `Nge-blog dengan Jekyll`, `Mac OS` dan hal-hal seputar teknologi yang saya gunakan.
 
-Karna website ini adalah dokumentasi pribadi, jadi setiap yang tulis belum tentu semuanya benar. Jika teman-teman mendapatkan manfaat dari tulisan saya, itu murni karna karunia dan kemudahan dari Allah.
+Karna website ini adalah dokumentasi pribadi, jadi apa yang saya tulis belum tentu semuanya benar. 
 
 Jika terdapat kesalahan dalam tulisan saya, silahkan teman-teman koreksi di kolom komentar, di masing-masing postingan saya.
 
